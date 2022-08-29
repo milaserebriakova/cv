@@ -78,19 +78,19 @@ Summer Course in Ilmenau Technical University, Germany (2017)
 While working in a cross-functional team in Diasoft I am enrolled on a joint development project with a bank.
 
 Examples of the working tasks I have on the project:
-- technical documentation development, such as: administator guides, technical specifications on functions etc.
-- knowledge base managment (Confluence, Git): making sure the documentation exists, it is full, correct and up to date
-- team-leader support with non-technical documentation development
-- articles writing on Diasoft portal on teambuilding events of our department (non-technical writing)
+- technical documentation development, such as: administator guides, technical specifications on functions etc.;
+- knowledge base managment (Confluence, Git): making sure the documentation exists, it is full, correct and up to date;
+- team-leader support with non-technical documentation development;
+- articles writing on Diasoft portal on teambuilding events of our department (non-technical writing).
 
 Working stack:
-- Microsoft Office: Word, Excel, Visio
-- Confluence
-- SQL, databases
-- Jira
-- Git, Gitlab
-- Team Foundation Server
-- Scrum
+- Microsoft Office: Word, Excel, Visio;
+- Confluence;
+- SQL, databases;
+- Jira;
+- Git, Gitlab;
+- Team Foundation Server;
+- Scrum.
 
 
 ### Moscow Power Engineering Institute, Jul 2019 - Jun 2021 · 2 yrs
@@ -99,17 +99,17 @@ Working stack:
 While writing my Master thesis I was employed at the Department of Power Electronics to work on government-funded R&D projects.
 A brief summary of the working tasks I had during my time at R&D:
 
-- Mathematical models development
-- Circuit design
-- Technical writing
-- Patent research
+- Mathematical models development;
+- Circuit design;
+- Technical writing;
+- Patent research.
 
 My working stack was: 
-- Microsoft Office
-- MATLAB Simulink
-- C, Assembly
-- LTSpice
-- Altium Designer
-- SOLIDWORKS
+- Microsoft Office;
+- MATLAB Simulink;
+- C, Assembly;
+- LTSpice;
+- Altium Designer;
+- SOLIDWORKS;
 - Adobe Photoshop etc.
 

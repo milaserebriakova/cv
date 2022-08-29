@@ -6,7 +6,9 @@
 **How to contact me:**
 
 [LinkedIn](https://www.linkedin.com/in/serebriakovala/)
+
 E-mail: semilas@yandex.ru
+
 Telegram: @motrojamm
 
 ## About

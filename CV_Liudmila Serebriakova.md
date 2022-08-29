@@ -57,9 +57,11 @@ To acquire a deeper understanding of my professional and personal qualifications
 
 
 - Publication
+
 “Non-Inductive Power Factor Corrector based on Valve Converter in Discontinuous Current Mode”, IEEE, 9 April 2020
 
 - Education
+
 Summer Course in Ilmenau Technical University, Germany (2017)
 
 ## Hobbies
@@ -110,6 +112,4 @@ My working stack was:
 - Altium Designer
 - SOLIDWORKS
 - Adobe Photoshop etc.
-
-## Table of Content
 

@@ -79,8 +79,8 @@ While working in a cross-functional team in Diasoft I am enrolled on a joint dev
 
 Examples of the working tasks I have on the project:
 
-- Technical documentation development, such as: administator guides, technical specifications on functions etc.;
-- Knowledge base managment (Confluence, Git): making sure the documentation exists, it is full, correct and up to date;
+- Technical documentation development, such as: administrator guides, technical specifications on functions etc.;
+- Knowledge base management (Confluence, Git): making sure the documentation exists, it is full, correct and up to date;
 - Team-leader support with non-technical documentation development;
 - Articles writing on Diasoft portal on teambuilding events of our department (non-technical writing).
 

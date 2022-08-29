@@ -40,12 +40,12 @@ To acquire a deeper understanding of my professional and personal qualifications
 
 ## Soft Skills
 
-- hardworking
-- responsible
-- easygoing
-- good teamwork and leadership skills
-- quickly adapting to changes
-- keen on acquiring new skills (both professional and personal), and developing my own
+- Hardworking
+- Responsible
+- Easygoing
+- Good teamwork and leadership skills
+- Quickly adapting to changes
+- Keen on acquiring new skills (both professional and personal), and developing my own
 
 ## Languages
 
@@ -65,11 +65,11 @@ To acquire a deeper understanding of my professional and personal qualifications
 Summer Course in Ilmenau Technical University, Germany (2017)
 
 ## Hobbies
-- photography
-- reading 
-- learning languages 
-- videogames
-- hiking
+- Photography
+- Reading 
+- Learning languages 
+- Videogames
+- Hiking
 
 ## Employment History
 ### Diasoft, Nov 2021 - Present · 10 mos
@@ -78,10 +78,11 @@ Summer Course in Ilmenau Technical University, Germany (2017)
 While working in a cross-functional team in Diasoft I am enrolled on a joint development project with a bank.
 
 Examples of the working tasks I have on the project:
-- technical documentation development, such as: administator guides, technical specifications on functions etc.;
-- knowledge base managment (Confluence, Git): making sure the documentation exists, it is full, correct and up to date;
-- team-leader support with non-technical documentation development;
-- articles writing on Diasoft portal on teambuilding events of our department (non-technical writing).
+
+- Technical documentation development, such as: administator guides, technical specifications on functions etc.;
+- Knowledge base managment (Confluence, Git): making sure the documentation exists, it is full, correct and up to date;
+- Team-leader support with non-technical documentation development;
+- Articles writing on Diasoft portal on teambuilding events of our department (non-technical writing).
 
 Working stack:
 - Microsoft Office: Word, Excel, Visio;
@@ -105,6 +106,7 @@ A brief summary of the working tasks I had during my time at R&D:
 - Patent research.
 
 My working stack was: 
+
 - Microsoft Office;
 - MATLAB Simulink;
 - C, Assembly;

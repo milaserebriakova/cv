@@ -72,7 +72,7 @@ Summer Course in Ilmenau Technical University, Germany (2017)
 - Hiking
 
 ## Employment History
-### Diasoft, Nov 2021 - Present · 10 mos
+### Diasoft, Nov 2021 - Present
 #### Technical Writer
 
 While working in a cross-functional team in Diasoft I am enrolled on a joint development project with a bank.

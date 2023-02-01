@@ -17,7 +17,7 @@ A graduate from Moscow Power Engineering Institute with a Masters degree in Powe
 
 While working on my thesis, I was involved in government-funded R&D projects. I have an understanding of hardware design and development, broad knowledge in the field of electronics, including basic knowledge of C and Assembly programming languages.
 
-As a Technical Writer in Diasoft I am resposible of developing technical documentation on the project, keeping it up to date. I have an understanding of software design and development, experience working with databases, SQL. 
+As a Technical Writer in Diasoft I was resposible of developing technical documentation on the project, keeping it up to date. I have an understanding of software design and development, experience working with databases, SQL. 
 
 My goal is to prosper as a specialist, to help achieve company's future goals and plans in order to create prosperity on the whole.
 
@@ -72,7 +72,7 @@ Summer Course in Ilmenau Technical University, Germany (2017)
 - Hiking
 
 ## Employment History
-### Diasoft, Nov 2021 - Present
+### Diasoft, Nov 2021 - Dec 2022
 #### Technical Writer
 
 While working in a cross-functional team in Diasoft I am enrolled on a joint development project with a bank.

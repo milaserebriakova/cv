@@ -28,6 +28,7 @@ To acquire a deeper understanding of my professional and personal qualifications
 
 ## Hard Skills
 
+- Markdown
 - OS Windows, MacOS
 - Microsoft Office (Word, Excel, Visio etc.)
 - Confluence
@@ -35,7 +36,6 @@ To acquire a deeper understanding of my professional and personal qualifications
 - Jira
 - SQL
 - C, Assembly
-- Markdown
 - Adobe Photoshop
 
 ## Soft Skills
@@ -55,7 +55,6 @@ To acquire a deeper understanding of my professional and personal qualifications
 
 ## Personal Accomplishments
 
-
 - Publication
 
 “Non-Inductive Power Factor Corrector based on Valve Converter in Discontinuous Current Mode”, IEEE, 9 April 2020
@@ -72,12 +71,28 @@ Summer Course in Ilmenau Technical University, Germany (2017)
 - Hiking
 
 ## Employment History
+### ITLabRealty, Apr 2023 - present
+#### Technical Writer
+
+Working on new external and internal documentation resources for a product.
+
+Examples of the working tasks I have on the project:
+
+- User documentation review, update and development: [https://docs.bnmap.pro/](docs.bnmap.pro);
+- Internal technical documentation review, update and development.
+
+Working stack:
+- Markdown
+- Git, Gitlab
+- Yandex Tracker
+- Miro
+
 ### Diasoft, Nov 2021 - Dec 2022
 #### Technical Writer
 
 While working in a cross-functional team in Diasoft I am enrolled on a joint development project with a bank.
 
-Examples of the working tasks I have on the project:
+Examples of the working tasks I had on the project:
 
 - Technical documentation development, such as: administrator guides, technical specifications on functions etc.;
 - Knowledge base management (Confluence, Git): making sure the documentation exists, it is full, correct and up to date;

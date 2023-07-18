@@ -78,7 +78,7 @@ Working on new external and internal documentation resources for a product.
 
 Examples of the working tasks I have on the project:
 
-- User documentation review, update and development: [https://docs.bnmap.pro/](docs.bnmap.pro);
+- User documentation review, update and development: [docs.bnmap.pro](https://docs.bnmap.pro/);
 - Internal technical documentation review, update and development.
 
 Working stack:
